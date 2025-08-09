@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\EnemyKill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EnemyKill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\EnergyManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EnergyManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\Fodder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Fodder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\GameController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\DestroyByTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DestroyByTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\PlayerManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\CameraManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CameraManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\PlayerLaserManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerLaserManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnergyManager.cs",
+              "DocumentMoniker": "C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\EnergyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnergyManager.cs",
+              "ToolTip": "C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\EnergyManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnergyManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T00:03:02.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T23:46:52.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DestroyByTime.cs",
+              "DocumentMoniker": "C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\DestroyByTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyByTime.cs",
+              "ToolTip": "C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\DestroyByTime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyByTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:00:09.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyKill.cs",
+              "DocumentMoniker": "C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\EnemyKill.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyKill.cs",
+              "ToolTip": "C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\EnemyKill.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyKill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T21:59:41.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fodder.cs",
+              "DocumentMoniker": "C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\Fodder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fodder.cs",
+              "ToolTip": "C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\Fodder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fodder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T21:59:29.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerLaserManager.cs",
+              "DocumentMoniker": "C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\PlayerLaserManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerLaserManager.cs",
+              "ToolTip": "C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\PlayerLaserManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerLaserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T21:22:34.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerManager.cs",
+              "ToolTip": "C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T21:42:25.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CameraManager.cs",
+              "DocumentMoniker": "C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\CameraManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraManager.cs",
+              "ToolTip": "C:\\Users\\MaxTemp\\Documents\\Skyline Striker\\Skyline Striker\\Assets\\Scripts\\CameraManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:15:27.054Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
